@@ -45,7 +45,9 @@ export function App() {
           <Separator orientation='vertical' className='h-6' />
 
         <Button variant={"destructive"}>
-         <Github className='w-4 h-4 mr-2' /> Github</Button>
+         <Github className='w-4 h-4 mr-2' />
+         <a href="https://github.com/LarissaK0">GitHub</a>
+         </Button>
 
       </div>
     </div>

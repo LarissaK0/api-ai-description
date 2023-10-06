@@ -16,9 +16,7 @@ API-AI-DESCRIPTION é uma aplicação web para criar Títulos e Descrições de 
 
 Além disso, no final da descrição é incluida uma lista de 3 até 10 hashtags contendo palavras-chave do vídeo. 
 
-Aplicação perfeita para quem é criador de conteúdo em vídeos. 
-
-<img alt="videopng" src="img-video.png">
+Aplicação perfeita para quem é criador de conteúdo em vídeos. <img alt="videopng" src="img-video.png" width="50">
 
 
 ## 🚀 Tecnologias
@@ -27,6 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - JavaScript
+- TypeScript
 - Inteligência Artificial
 - Git e Github
 - Figma
